@@ -1,0 +1,1 @@
+## Simple school management system with RestAPI
